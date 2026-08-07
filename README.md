@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 8 |
+| 20 | 8 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (6)
 - [sortings](#sortings) (1)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 
 ---
 
@@ -55,6 +55,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
@@ -90,6 +91,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |

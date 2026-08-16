@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 9 |
+| 40 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (6)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (25)
-- [math](#math) (11)
+- [math](#math) (12)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (11)
@@ -101,6 +101,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [Python 2](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.py) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 

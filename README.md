@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 11 |
+| 52 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (34)
+- [implementation](#implementation) (35)
 - [math](#math) (14)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (4)
@@ -105,6 +105,7 @@
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 11 |
+| 62 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (2)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (40)
+- [implementation](#implementation) (41)
 - [math](#math) (16)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
@@ -111,6 +111,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |

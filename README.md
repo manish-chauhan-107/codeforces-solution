@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 13 |
+| 72 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (2)
 - [greedy](#greedy) (13)
-- [implementation](#implementation) (47)
+- [implementation](#implementation) (48)
 - [math](#math) (20)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (6)
@@ -149,6 +149,7 @@
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 
 ### math
 

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 14 |
+| 79 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (2)
 - [greedy](#greedy) (14)
-- [implementation](#implementation) (53)
+- [implementation](#implementation) (54)
 - [math](#math) (22)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (7)
@@ -162,6 +162,7 @@
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/manish-chauhan-107/codeforces-solution/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 
